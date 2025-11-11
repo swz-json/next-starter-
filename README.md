@@ -35,17 +35,6 @@
 - 💾 Neon database
 - 🌐 I18n with next-intl
 
-## 🚀 Deployment
-Easily deploy your Next.js app with <a href="https://vercel.com/">Vercel</a> by clicking the button below:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Skolaczk/next-starter)
-
-## 🎯 Getting started
-### 1. Clone this template in one of three ways
-
-1. Using this repository as template
-
-   ![use-this-template-button](https://github.com/Skolaczk/next-starter/assets/76774237/f25c9a29-41de-4865-aa38-c032b9346169)
 
 2. Using `create-next-app`
 
